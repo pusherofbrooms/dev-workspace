@@ -8,11 +8,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1775560501,
-        "narHash": "sha256-s5D/1PHFSMMd2b18dVSdKtUycfGGt7/qSLbRbcGEo0c=",
+        "lastModified": 1776167860,
+        "narHash": "sha256-xjN1bpPBoxzBxXKNS1VKl/0P1UJeYTScZyfRLmmQUgg=",
         "owner": "pusherofbrooms",
         "repo": "codesieve",
-        "rev": "e38d5a97db70094ef95008d7f3fb332db1e64074",
+        "rev": "69d0ee23b6d0738324739252848ff87733367148",
         "type": "github"
       },
       "original": {
@@ -59,11 +59,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1775423009,
-        "narHash": "sha256-vPKLpjhIVWdDrfiUM8atW6YkIggCEKdSAlJPzzhkQlw=",
+        "lastModified": 1775710090,
+        "narHash": "sha256-ar3rofg+awPB8QXDaFJhJ2jJhu+KqN/PRCXeyuXR76E=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "68d8aa3d661f0e6bd5862291b5bb263b2a6595c9",
+        "rev": "4c1018dae018162ec878d42fec712642d214fdfa",
         "type": "github"
       },
       "original": {
@@ -82,11 +82,11 @@
         "pi-mono": "pi-mono"
       },
       "locked": {
-        "lastModified": 1775694860,
-        "narHash": "sha256-Zf4js9i0dyT2bFfaxgDdtf6T/6MwhNROG8SMKjP45B4=",
+        "lastModified": 1776167679,
+        "narHash": "sha256-h0TcPPVFcpnqzg8whSW6BiB+RzVP6DDLE/GCc0M8ixs=",
         "owner": "pusherofbrooms",
         "repo": "pi-mono-nix",
-        "rev": "77bf63beec0396be414b601859cb59428169981c",
+        "rev": "a691734bb06ced5411c5c03ae8b1cb76ac619a32",
         "type": "github"
       },
       "original": {
@@ -98,16 +98,16 @@
     "pi-mono": {
       "flake": false,
       "locked": {
-        "lastModified": 1775689219,
-        "narHash": "sha256-ZLa4IU7WpXixn9q158m17AvsofE43qj11JoaHCA1BWI=",
+        "lastModified": 1776119482,
+        "narHash": "sha256-Hh4nRMxtlzRHDgr8P6Pm7FDzV2f+6MIxNmVMKtnwb8I=",
         "owner": "badlogic",
         "repo": "pi-mono",
-        "rev": "f3780d7004db207f1e2a620be756582391d42400",
+        "rev": "53264524520179630299e9ea7a3441af7bbdaade",
         "type": "github"
       },
       "original": {
         "owner": "badlogic",
-        "ref": "v0.66.1",
+        "ref": "v0.67.1",
         "repo": "pi-mono",
         "type": "github"
       }
