@@ -1,6 +1,6 @@
 *
 !*/
-!.envrc
+!envrc
 !.gitignore
 !flake.nix
 !flake.lock
