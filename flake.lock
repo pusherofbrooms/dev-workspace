@@ -8,11 +8,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1776984512,
-        "narHash": "sha256-/98Qtq0mJgF6NZLv5ugpYIBvoq55g+V0qQ05PU4vWCQ=",
+        "lastModified": 1777293884,
+        "narHash": "sha256-/qKDl5t37jEfc3pLndTPFOdLLennSPmbZuYSFzoJIqA=",
         "owner": "pusherofbrooms",
         "repo": "codesieve",
-        "rev": "e26a7867c2a0eb72c85bab9a070e0085a9ea90ba",
+        "rev": "0d98423770b8bdbf6acaf4aa3102ceaabbe5c6ef",
         "type": "github"
       },
       "original": {
