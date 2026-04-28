@@ -59,11 +59,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1776548001,
-        "narHash": "sha256-ZSK0NL4a1BwVbbTBoSnWgbJy9HeZFXLYQizjb2DPF24=",
+        "lastModified": 1776877367,
+        "narHash": "sha256-EHq1/OX139R1RvBzOJ0aMRT3xnWyqtHBRUBuO1gFzjI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "b12141ef619e0a9c1c84dc8c684040326f27cdcc",
+        "rev": "0726a0ecb6d4e08f6adced58726b95db924cef57",
         "type": "github"
       },
       "original": {
@@ -82,11 +82,11 @@
         "pi-mono": "pi-mono"
       },
       "locked": {
-        "lastModified": 1777039147,
-        "narHash": "sha256-45FoKWfIGiJWvnCKPHz1kKgZyuvsHEQsrnGrKDJ/R8U=",
+        "lastModified": 1777370961,
+        "narHash": "sha256-mdjZcZ3+RY7t90PgZLIxi9h/tO8zPkFwxkRKg9uIEkE=",
         "owner": "pusherofbrooms",
         "repo": "pi-mono-nix",
-        "rev": "94713bdfd32c9e94fe358effd27b06979ef58fcd",
+        "rev": "b41414f7666f139398531b57c9edd8c39d01a2e4",
         "type": "github"
       },
       "original": {
@@ -98,16 +98,16 @@
     "pi-mono": {
       "flake": false,
       "locked": {
-        "lastModified": 1777033160,
-        "narHash": "sha256-qqmJloTp3mWuZBGgpwoyoFyXx6QD8xhJEwCZb7xFabM=",
+        "lastModified": 1777319431,
+        "narHash": "sha256-Jn+hvS/DIwbwAff+UovdIVnmrb4o8gsC4IR24MnwF1I=",
         "owner": "badlogic",
         "repo": "pi-mono",
-        "rev": "48aa882b5a51e4478da1b65f98c3401151f22e3f",
+        "rev": "3e40429b09545bcb0dbc611e8112348febc094ef",
         "type": "github"
       },
       "original": {
         "owner": "badlogic",
-        "ref": "v0.70.2",
+        "ref": "v0.70.5",
         "repo": "pi-mono",
         "type": "github"
       }
