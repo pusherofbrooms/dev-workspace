@@ -82,11 +82,11 @@
         "pi-mono": "pi-mono"
       },
       "locked": {
-        "lastModified": 1780952914,
-        "narHash": "sha256-Xzwp1QTeCjn70fNlHDnhWg57k9ItGWsF6KWSHLOXTjw=",
+        "lastModified": 1781051923,
+        "narHash": "sha256-eiMZ4yEU+qWio2byXRXyuKVyJC52QzGP3fMHdusPAsA=",
         "owner": "pusherofbrooms",
         "repo": "pi-mono-nix",
-        "rev": "b4517c95f6fa41d9dc7d17d7f6c827477df1c155",
+        "rev": "254010e6cd3348b71f683b50ad42d599e81184ee",
         "type": "github"
       },
       "original": {
@@ -98,16 +98,16 @@
     "pi-mono": {
       "flake": false,
       "locked": {
-        "lastModified": 1780931751,
-        "narHash": "sha256-mOgqwUdL6leyroHKfYHOEuEX+27pIZiaEvcGxlIj8NI=",
+        "lastModified": 1781039692,
+        "narHash": "sha256-MvH8e21GVfzRQ9vsxFNC1GHJfB9GZpqY1Z2t8GCUaiQ=",
         "owner": "earendil-works",
         "repo": "pi",
-        "rev": "c10fb95fd993a1f6a92d5f770258fada1a20b55a",
+        "rev": "28df940f0d07b65284849a483be7b06e2ca046ee",
         "type": "github"
       },
       "original": {
         "owner": "earendil-works",
-        "ref": "v0.79.0",
+        "ref": "v0.79.1",
         "repo": "pi",
         "type": "github"
       }
