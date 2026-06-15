@@ -30,6 +30,7 @@
             pi.packages.${system}.pi
             codesieve.packages.${system}.codesieve
             pkgs.nodejs
+            pkgs.agent-browser
             # Add when needed:
             # pkgs.playwright
           ];
