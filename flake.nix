@@ -21,7 +21,10 @@
       ];
       forAllSystems = f:
         nixpkgs.lib.genAttrs systems (system:
-          f system (import nixpkgs { inherit system; })
+          f system (import nixpkgs {
+            inherit system;
+            config.allowUnfree = true;
+          })
         );
     in {
       devShells = forAllSystems (system: pkgs: {
@@ -31,8 +34,8 @@
             codesieve.packages.${system}.codesieve
             pkgs.nodejs
             pkgs.agent-browser
-            # Add when needed:
-            # pkgs.playwright
+          ] ++ pkgs.lib.optionals pkgs.stdenv.isLinux [
+            pkgs.google-chrome
           ];
 
           shellHook = ''
