@@ -59,11 +59,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1784120854,
-        "narHash": "sha256-KesHgItiZPgGX740axSiQLcIQ8D24MDqNpkKYWIek8k=",
+        "lastModified": 1784497964,
+        "narHash": "sha256-vlHUuqAcbcH2RKmHbPiuQzbv1pnzzavXnI62RD0bqCU=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "753cc8a3a87467296ddd1fa93f0cc3e81120ee46",
+        "rev": "241313f4e8e508cb9b13278c2b0fa25b9ca27163",
         "type": "github"
       },
       "original": {
@@ -79,14 +79,15 @@
         "nixpkgs": [
           "nixpkgs"
         ],
+        "pi-ai-release": "pi-ai-release",
         "pi-mono": "pi-mono"
       },
       "locked": {
-        "lastModified": 1784245005,
-        "narHash": "sha256-CiOQ+idC1Qk+6l/F7wiKi/T4lQPOhRY8fkJNLtfdM2w=",
+        "lastModified": 1784717284,
+        "narHash": "sha256-jWU9qT2Y0ia1MpWRXFjJWPANCZt1NpREm8H7rG7BtQY=",
         "owner": "pusherofbrooms",
         "repo": "pi-mono-nix",
-        "rev": "32b4b93fdd87df647c544443feaa868470bac37a",
+        "rev": "415d9365d98be053c802b64f7177286a6cf794f5",
         "type": "github"
       },
       "original": {
@@ -95,19 +96,32 @@
         "type": "github"
       }
     },
+    "pi-ai-release": {
+      "flake": false,
+      "locked": {
+        "lastModified": 499162500,
+        "narHash": "sha256-V0Y25hxMHxPS7D+u/mAYUsmTvX3Q5zLP09biC7dLHHI=",
+        "type": "tarball",
+        "url": "https://registry.npmjs.org/@earendil-works/pi-ai/-/pi-ai-0.81.1.tgz"
+      },
+      "original": {
+        "type": "tarball",
+        "url": "https://registry.npmjs.org/@earendil-works/pi-ai/-/pi-ai-0.81.1.tgz"
+      }
+    },
     "pi-mono": {
       "flake": false,
       "locked": {
-        "lastModified": 1784239181,
-        "narHash": "sha256-Vs/ndHYzFyfN4CjPV2zMYblLXe9IuM13UrPJI1VsZEQ=",
+        "lastModified": 1784652008,
+        "narHash": "sha256-xo3uoR7HceOCL3wqoMcacOe8WXP1o7ReAXne5t6Hgao=",
         "owner": "earendil-works",
         "repo": "pi",
-        "rev": "8dc78834cde4e329284cf505f9e3f99763df5529",
+        "rev": "20be4b18d4c57487f8993d2762bace129f0cf7c6",
         "type": "github"
       },
       "original": {
         "owner": "earendil-works",
-        "ref": "v0.80.10",
+        "ref": "v0.81.1",
         "repo": "pi",
         "type": "github"
       }
