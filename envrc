@@ -1,3 +1,7 @@
 watch_file ./flake.nix
 watch_file ./flake.lock
 use flake .
+if [[ "$(uname)" == Darwin ]]; then
+  PATH_add /usr/bin
+  PATH_add /bin
+fi
