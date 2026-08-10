@@ -34,6 +34,16 @@
             codesieve.packages.${system}.codesieve
             pkgs.nodejs
             pkgs.agent-browser
+
+            # Keep the workspace consistent with the GNU userland on NixOS.
+            pkgs.bashInteractive
+            pkgs.coreutils
+            pkgs.findutils
+            pkgs.gnused
+            pkgs.gnugrep
+            pkgs.gawk
+            pkgs.diffutils
+            pkgs.gnutar
           ] ++ pkgs.lib.optionals pkgs.stdenv.isLinux [
             pkgs.google-chrome
           ];
