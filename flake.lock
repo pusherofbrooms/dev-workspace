@@ -59,11 +59,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1788531059,
-        "narHash": "sha256-hLD4l3QOGBQhkVp3mQ2lJ/YbEi99qUgKapb40KovZ88=",
+        "lastModified": 1789785513,
+        "narHash": "sha256-B44WL6h0XoLjJ41bUPJk0X5SDinLCII//6EcBLXKiJ0=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "801bef6abd86b91e51083066b83fb354a11fc640",
+        "rev": "20b1ddd1aa5ace70c9468305030aa4f9ef79671b",
         "type": "github"
       },
       "original": {
@@ -83,11 +83,11 @@
         "pi-mono": "pi-mono"
       },
       "locked": {
-        "lastModified": 1788613327,
-        "narHash": "sha256-CW6EtdTQySqnocGQDwaUBn9d1aD0DHMO8WTkOspPsg4=",
+        "lastModified": 1789993337,
+        "narHash": "sha256-oeOYZxX8U2kcBULAh2WJuTU9ryLzcGrjiJz8uRX61ls=",
         "owner": "pusherofbrooms",
         "repo": "pi-mono-nix",
-        "rev": "1055905987721d0eca29221f657ac828bc685847",
+        "rev": "801eaa53c94bb8f5e182dc258b574af4da21fac6",
         "type": "github"
       },
       "original": {
@@ -100,28 +100,28 @@
       "flake": false,
       "locked": {
         "lastModified": 499162500,
-        "narHash": "sha256-KzewhtP1DRFDIOrJ4wN9bKwG3EioQW7eTsipK5AJ2z8=",
+        "narHash": "sha256-KZX2KQ8Nui1EYoTiK60a4fN8JfKXbp+TM+eivHjg6Tw=",
         "type": "tarball",
-        "url": "https://registry.npmjs.org/@earendil-works/pi-ai/-/pi-ai-0.85.1.tgz"
+        "url": "https://registry.npmjs.org/@earendil-works/pi-ai/-/pi-ai-0.86.1.tgz"
       },
       "original": {
         "type": "tarball",
-        "url": "https://registry.npmjs.org/@earendil-works/pi-ai/-/pi-ai-0.85.1.tgz"
+        "url": "https://registry.npmjs.org/@earendil-works/pi-ai/-/pi-ai-0.86.1.tgz"
       }
     },
     "pi-mono": {
       "flake": false,
       "locked": {
-        "lastModified": 1788609286,
-        "narHash": "sha256-gU8BSiqqOYt2RRuQONHHGvZeSM5KFQVrwif9bmuUXUc=",
+        "lastModified": 1789902251,
+        "narHash": "sha256-/7+VoRfXdeOwtiNXQYOKg5OHeKuNLIHfODGDNBhWop0=",
         "owner": "earendil-works",
         "repo": "pi",
-        "rev": "d981de1229ef899957bbe968bc8dcda02a21f477",
+        "rev": "13cbf77df2396303013a41646bcfa77b4271ae56",
         "type": "github"
       },
       "original": {
         "owner": "earendil-works",
-        "ref": "v0.85.1",
+        "ref": "v0.86.1",
         "repo": "pi",
         "type": "github"
       }
