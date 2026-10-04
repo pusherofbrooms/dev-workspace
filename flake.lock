@@ -83,11 +83,11 @@
         "pi-mono": "pi-mono"
       },
       "locked": {
-        "lastModified": 1790935170,
-        "narHash": "sha256-b5e/jzcRjMPus8si/aXyplHWrvjOUrc3s627FXTNOx4=",
+        "lastModified": 1791077093,
+        "narHash": "sha256-7c/LR8UWLXNA3NrL1zyJIFWhuDinUL9CRfF0obn9gQQ=",
         "owner": "pusherofbrooms",
         "repo": "pi-mono-nix",
-        "rev": "951f321e97a404c795dab5b8e9d91e9131ccb78a",
+        "rev": "e5d2e92f488fbdb0aea424a6ea68cac48aad3a19",
         "type": "github"
       },
       "original": {
@@ -100,28 +100,28 @@
       "flake": false,
       "locked": {
         "lastModified": 499162500,
-        "narHash": "sha256-pdjg9cLNcx7AsGNzgnxT/hjHPlBCa/nOrUUf8ylK0ws=",
+        "narHash": "sha256-uENjaL6Fp8PBZHK12t+Sw7+lS2nGIAWR3zFtNW9cOkQ=",
         "type": "tarball",
-        "url": "https://registry.npmjs.org/@earendil-works/pi-ai/-/pi-ai-1.0.0.tgz"
+        "url": "https://registry.npmjs.org/@earendil-works/pi-ai/-/pi-ai-1.0.2.tgz"
       },
       "original": {
         "type": "tarball",
-        "url": "https://registry.npmjs.org/@earendil-works/pi-ai/-/pi-ai-1.0.0.tgz"
+        "url": "https://registry.npmjs.org/@earendil-works/pi-ai/-/pi-ai-1.0.2.tgz"
       }
     },
     "pi-mono": {
       "flake": false,
       "locked": {
-        "lastModified": 1790880741,
-        "narHash": "sha256-CGznIVHXG6gr2F8vzHcR/v4P9xJgZHeMTt/CJ/kB78o=",
+        "lastModified": 1791074476,
+        "narHash": "sha256-DjWJE7KcCdNF/M3RrO76rKCSd6oFLo2dX9wFT0nwEXk=",
         "owner": "earendil-works",
         "repo": "pi",
-        "rev": "a13d35a742c6ef8462812a28fbe1d8c8b7431c32",
+        "rev": "cd32f7725fdbddbaecdff5b1e68491563394e0ca",
         "type": "github"
       },
       "original": {
         "owner": "earendil-works",
-        "ref": "v1.0.0",
+        "ref": "v1.0.2",
         "repo": "pi",
         "type": "github"
       }
