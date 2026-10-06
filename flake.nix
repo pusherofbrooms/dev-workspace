@@ -4,14 +4,12 @@
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
 
-    pi.url = "github:pusherofbrooms/pi-mono-nix";
-    codesieve.url = "github:pusherofbrooms/codesieve";
+    pi.url = "github:earendil-works/pi/stable";
 
     pi.inputs.nixpkgs.follows = "nixpkgs";
-    codesieve.inputs.nixpkgs.follows = "nixpkgs";
   };
 
-  outputs = { self, nixpkgs, pi, codesieve, ... }:
+  outputs = { self, nixpkgs, pi, ... }:
     let
       systems = [
         "x86_64-linux"
@@ -41,7 +39,6 @@
           default = pkgs.mkShell {
             packages = [
               pi.packages.${system}.pi
-              codesieve.packages.${system}.codesieve
               pkgs.nodejs
               agentBrowser
 
@@ -60,7 +57,7 @@
 
             shellHook = ''
               echo "Loaded ~/ai dev workspace"
-              echo "Tools: pi, codesieve, node"
+              echo "Tools: pi, node, gnu core utils, agentBrowser"
             '';
           };
         });
